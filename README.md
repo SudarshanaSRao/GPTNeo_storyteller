@@ -1,4 +1,7 @@
-# Mythology Storyteller Gradio App
+# Mythology Storyteller App
+
+## [Project details](https://sudarshanasrao.github.io/portfolio/portfolio-10/)
+
 This repository hosts a Gradio web application that uses the fine-tuned GPT-Neo Mythology Storyteller model (available at [HuggingFace](https://huggingface.co/Samurai719214/gptneo-mythology-storyteller)) to generate complete mythological narratives. Given an incomplete story excerpt, the model generates a complete chapter narrative.
 
 ![mahabharata_finetune_pipeline](https://github.com/user-attachments/assets/2674fcfb-752a-485c-9300-a21680b8d4a5)
