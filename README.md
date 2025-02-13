@@ -7,7 +7,8 @@ This repository hosts a Gradio web application that uses the fine-tuned GPT-Neo 
 ![mahabharata_finetune_pipeline](https://github.com/user-attachments/assets/2674fcfb-752a-485c-9300-a21680b8d4a5)
 
 ## Gradio webapp
-![image](https://github.com/user-attachments/assets/683550fd-2c6c-4284-937c-1fdaf8b37182)
+![Screenshot 2025-02-12 204701](https://github.com/user-attachments/assets/e91997e2-b2b9-4b57-aa3f-d7834529f172)
+![Screenshot 2025-02-12 204722](https://github.com/user-attachments/assets/e9a9b97f-6278-4bfb-8ea6-f0300e9f1d50)
 
 ## Training evaluation
 ![Screenshot 2025-02-10 203714](https://github.com/user-attachments/assets/64e4c433-1650-49fb-a8a8-9b6c84f00a24)
