@@ -82,7 +82,7 @@ with gr.Blocks() as demo:
             clear_btn = gr.Button("🗑️ Clear Conversation", interactive=False)
 
     gr.Markdown("---")
-    gr.Markdown("🔌 View the Privacy Policy & Terms- [here](https://github.com/SudarshanaSRao/GPTNeo_storyteller/blob/main/privacy_terms.md){:target="_blank"}")
+    gr.Markdown("🔌 View the Privacy Policy & Terms- [here](https://github.com/SudarshanaSRao/GPTNeo_storyteller/blob/main/privacy_terms.md)")
 
     gr.Markdown("# Please read the Privacy Policy and Terms of this app before using the app. If you disagree with it, do not use this app. If you proceed to use this app, then your agreement to the Privacy Policy & Terms will be assumed.")
 
